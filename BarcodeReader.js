@@ -1,7 +1,7 @@
 /**
  * The BarcodeReader class
  *
- * Copyright (c) 2012, smolowik.eu
+ * Copyright (c) 2012, smolowik at gmail.com
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
