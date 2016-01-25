@@ -31,7 +31,7 @@
  * @module BarcodeReader
  * @author Aleksander Smołowik <aleksander@gmail.com>
  * @description Code scanning with USB reader in JavaScript.
- * @link http://code.google.com/p/nativ-js-barcodereader/
+ * @link https://github.com/smolowik/nativ-js-barcodereader
  *
  */
 var BarcodeReader = {
