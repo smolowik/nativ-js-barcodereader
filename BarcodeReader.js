@@ -1,7 +1,7 @@
 /**
  * The BarcodeReader class
  *
- * Copyright (c) 2012, smolowik at gmail.com
+ * Copyright (c) 2012, smolowik
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -29,7 +29,7 @@
  * POSSIBILITY OF SUCH DAMAGE.
  *
  * @module BarcodeReader
- * @author Aleksander Smołowik <aleksander@smolowik.eu>
+ * @author Aleksander Smołowik <aleksander@gmail.com>
  * @description Code scanning with USB reader in JavaScript.
  * @link http://code.google.com/p/nativ-js-barcodereader/
  *
